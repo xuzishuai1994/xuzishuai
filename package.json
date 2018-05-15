@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "xuzishuai": "bin/xuzishuai"
+    "xuzishuai": "bin/xuzishuai.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
