@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 'use strict';
 
-console.log('yayay');
+console.log('thanos')
