@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "thanos": "bin/thanos.js"
+    "kq": "bin/kq.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/xuzishuai1994/xuzishuai/issues"
   },
-  "homepage": "https://github.com/xuzishuai1994/xuzishuai#readme"
+  "homepage": "https://github.com/xuzishuai1994/xuzishuai#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "download-git-repo": "^1.0.2",
+    "node-emoji": "^1.8.1",
+    "yargs": "^11.0.0"
+  }
 }

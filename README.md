@@ -1,1 +1,1 @@
-# thanos
+# kq cli
